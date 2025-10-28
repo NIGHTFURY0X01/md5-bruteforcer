@@ -4,10 +4,10 @@
 --- 
 ## Description
 + This tool helps you find the original content when you have:
-- A base64 string with unknown characters (represented as '?')
-- The MD5 hash of the original base64 string
++ A base64 string with unknown characters (represented as '?')
++ The MD5 hash of the original base64 string
 
-It systematically tries all possible characters to replace the '?' symbols until it finds a match with the target MD5 checksum.
+- It systematically tries all possible characters to replace the '?' symbols until it finds a match with the target MD5 checksum.
 
 ## Installation
 No installation required. Just ensure you have Node.js installed on your system.
