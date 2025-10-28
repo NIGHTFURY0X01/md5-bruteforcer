@@ -26,6 +26,8 @@ node bruteforcer.js "V?VzdA==" "1bee2ffa5d703046bac8e0dc07ce7722"
 ```bash
 Test
 ```
+Or
+
 ```bash
  node md5-bruteforcer.js "QnJhdm8hIE5leHQ?bGV2ZWw6IC9Z?01q?TNP?1pt" 28f09edf0014c017f06f799e7bda9f79
 ```
